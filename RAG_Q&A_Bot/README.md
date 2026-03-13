@@ -23,6 +23,9 @@ pip install pandas
 
 pip install numpy pymupdf faiss-cpu scikit-learn tqdm python-dotenv tiktoken pandas huggingface_hub
 
+pip install nltk
+
+
 
 | Library               | Purpose in RAG        | Why Needed                           |
 | --------------------- | --------------------- | ------------------------------------ |
