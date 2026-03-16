@@ -1,0 +1,26 @@
+# Core Python Utilities
+python-dotenv
+tqdm
+
+# LLM / API Clients
+openai
+huggingface_hub
+
+# LangChain Framework
+langchain
+langchain-community
+langchain-core
+
+# Embeddings
+sentence-transformers
+
+# Vector Database
+faiss-cpu
+chromadb
+
+# Document Loaders
+pypdf
+pdfplumber
+
+# Text Processing
+tiktoken
