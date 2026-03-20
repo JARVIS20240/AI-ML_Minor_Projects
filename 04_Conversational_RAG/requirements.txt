@@ -6,3 +6,5 @@ faiss-cpu
 sentence-transformers
 python-dotenv
 tiktoken
+langchain-openai 
+pymupdf
